@@ -1,7 +1,5 @@
 ## Hi, I'm Chris 
 
-****
-
 # 💫 About Me:
 Visual Computing PhD Student at Clemson University<br>My research includes inverse neural rendering, material acquisition, and facial capture and analysis<br>I am looking to pursue a career in Research and Development within the electronic industry<br><br>
 
